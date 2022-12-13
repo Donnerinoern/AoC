@@ -1,0 +1,15 @@
+/home/donnan/RiderProjects/AoC/AoC1/bin/Debug/net6.0/AoC1
+/home/donnan/RiderProjects/AoC/AoC1/bin/Debug/net6.0/AoC1.deps.json
+/home/donnan/RiderProjects/AoC/AoC1/bin/Debug/net6.0/AoC1.runtimeconfig.json
+/home/donnan/RiderProjects/AoC/AoC1/bin/Debug/net6.0/AoC1.dll
+/home/donnan/RiderProjects/AoC/AoC1/bin/Debug/net6.0/ref/AoC1.dll
+/home/donnan/RiderProjects/AoC/AoC1/bin/Debug/net6.0/AoC1.pdb
+/home/donnan/RiderProjects/AoC/AoC1/obj/Debug/net6.0/AoC1.csproj.AssemblyReference.cache
+/home/donnan/RiderProjects/AoC/AoC1/obj/Debug/net6.0/AoC1.GeneratedMSBuildEditorConfig.editorconfig
+/home/donnan/RiderProjects/AoC/AoC1/obj/Debug/net6.0/AoC1.AssemblyInfoInputs.cache
+/home/donnan/RiderProjects/AoC/AoC1/obj/Debug/net6.0/AoC1.AssemblyInfo.cs
+/home/donnan/RiderProjects/AoC/AoC1/obj/Debug/net6.0/AoC1.csproj.CoreCompileInputs.cache
+/home/donnan/RiderProjects/AoC/AoC1/obj/Debug/net6.0/AoC1.dll
+/home/donnan/RiderProjects/AoC/AoC1/obj/Debug/net6.0/ref/AoC1.dll
+/home/donnan/RiderProjects/AoC/AoC1/obj/Debug/net6.0/AoC1.pdb
+/home/donnan/RiderProjects/AoC/AoC1/obj/Debug/net6.0/AoC1.genruntimeconfig.cache
